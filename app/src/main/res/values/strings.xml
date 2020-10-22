@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">A7s212021prac5</string>
+    <string name="lista">CAMARAS</string>
+    <string name="lista2">Y a ti... Cual te gusta?</string>
+    <string name="cam1">cam1</string>
+    <string name="cam2">cam2</string>
+    <string name="cam3">cam3</string>
+    <string name="cam4">cam4</string>
+    <string name="cam5">cam5</string>
+    <string name="cam6">cam6</string>
+    <string name="cam7">cam7</string>
+    <string name="cam8">cam8</string>
+    <string name="btn">COMPRAR!!</string>
+    <string name="txtmarca">Ingresa la Marca</string>
+</resources>
